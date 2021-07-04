@@ -2,11 +2,11 @@
 ## Pima Indian Diabetes Dataset Prediction using the neural networks.
 
 ### Dataset
-~ Pima Indians Diabetes Database (https://www.kaggle.com/uciml/pima-indians-diabetes-database)
+ Pima Indians Diabetes Database (https://www.kaggle.com/uciml/pima-indians-diabetes-database)
 ### Libraries Used
-~ Tensorflow
-~ Pandas
+1.  Tensorflow
+2.  Pandas
 ### Accuracy
-~ train accuracy 80%
-~ valid accuracy 70-80%
-~ test accuracy 93%
+1. train accuracy 80%
+2. valid accuracy 70-80%
+3. test accuracy 93%
